@@ -1,5 +1,6 @@
 import streamlit as st
 from groq import Groq
+import os
 
 # AI client
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
