@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 # AI client
-client = Groq(api_key="GROQ_API_KEY")
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Personality prompt
 system_prompt = """
