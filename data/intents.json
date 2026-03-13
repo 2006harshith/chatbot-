@@ -1,0 +1,22 @@
+{
+    "greeting": [
+      "hi",
+      "hello",
+      "hey",
+      "good morning",
+      "good evening"
+    ],
+  
+    "goodbye": [
+      "bye",
+      "good night",
+      "see you",
+      "talk later"
+    ],
+  
+    "gratitude": [
+      "thanks",
+      "thank you",
+      "appreciate it"
+    ]
+  }
